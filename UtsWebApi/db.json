@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "ImageUri": "https://media.licdn.com/dms/image/C5603AQEAFg679qjLrg/profile-displayphoto-shrink_800_800/0?e=1534982400&v=beta&t=04-bv7gIeT6yq2Sg8HTThNqqOsd-_HnFLk6TISgEZGA",
+    "FirstName": "John",
+    "LastName": "Smith",
+    "Designation": "CEO",
+    "ManagerId": null,
+    "ContactInfo": {
+      "OfficePhone": "officephone",
+      "CellPhone": "cell phone",
+      "Email": "email"
+    },
+    "Likes": 11
+  },
+  {
+    "Id": 2,
+    "ImageUri": "https://media.licdn.com/dms/image/C4D03AQFMQgGCOBjyLQ/profile-displayphoto-shrink_200_200/0?e=1534982400&v=beta&t=8-08uw0lFh1SjJj4FsTsuNJyZK1uI8F16JoNlLClys8",
+    "FirstName": "Hemant",
+    "LastName": "Shelar",
+    "Designation": "Product Owner",
+    "ManagerId": 1,
+    "ContactInfo": {
+      "OfficePhone": "officephone",
+      "CellPhone": "cell phone",
+      "Email": "email"
+    },
+    "Likes": 10
+  },
+  {
+    "Id": 3,
+    "ImageUri": "https://media.licdn.com/dms/image/C4E03AQFZcbXJQW0orw/profile-displayphoto-shrink_800_800/0?e=1534982400&v=beta&t=jue-7so8Ak1oPDJmiOKIWylbQ4ZWFUugNplgmFkfcK8",
+    "FirstName": "Sachin",
+    "LastName": "Vaidya",
+    "Designation": "Developer",
+    "ManagerId": 2,
+    "ContactInfo": {
+      "OfficePhone": "officephone",
+      "CellPhone": "cell phone",
+      "Email": "email"
+    },
+    "Likes": 9
+  },
+  {
+    "Id": 4,
+    "ImageUri": "https://media.licdn.com/dms/image/C5603AQFMcUn2W47YjQ/profile-displayphoto-shrink_800_800/0?e=1534982400&v=beta&t=Kj-_9H76YGltQWfzZ5RgEnotG7x_DRrIUJa007IHokQ",
+    "FirstName": "Reeta",
+    "LastName": "Bahuriya",
+    "Designation": "Sr Associate Technology",
+    "ManagerId": 2,
+    "ContactInfo": {
+      "OfficePhone": "officephone",
+      "CellPhone": "cell phone",
+      "Email": "email"
+    },
+    "Likes": 0
+  }
+]
